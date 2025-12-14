@@ -1,0 +1,1 @@
+morty application using Next.js
